@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-000_Videos/
+000_videos/
 *.log
 haters/
 .idea/
